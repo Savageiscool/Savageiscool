@@ -21,12 +21,17 @@
 -☘️ Minecraft in browsers
 -☁ Free Hosting Service 
 
-
 ---
 **Hobbies**:
 -🎮 Gaming
 -🏈 Football
 -💮 Anime
+
+---
+**My Goal**
+- I try to code for fun and never take any amount of payment :)! I hope to create a free hosting website for beginner's to start coding and sharing their projects. This is as most "free" hosting services either force you to pay after a certain time or is just a crappy and shitty service!
+
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kpujoy&cover_image=true&theme=default)](https://spotify.com)
 
